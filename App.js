@@ -8,6 +8,7 @@ import {createStackNavigator} from '@react-navigation/stack';
 import COLORS from './src/consts/colors';
 
 import Home from './src/screens/Home';
+import Details from './src/screens/Details';
 
 const Stack = createStackNavigator();
 
@@ -18,6 +19,7 @@ const App = () => {
 
       <Stack.Navigator screenOptions={{header: () => null}}>
         <Stack.Screen name="Home" component={Home} />
+        <Stack.Screen name="Details" component={Details} />
       </Stack.Navigator>
     </NavigationContainer>
   );
