@@ -31,7 +31,7 @@ Technologies that I used to develop this mobile client
 **Clone the project and access the folder**
 
 ```bash
-$ git clone https://https://github.com/alissonfernand/plant && cd plant
+$ git clone https://github.com/alissonfernand/plant && cd plant
 ```
 
 **Follow the steps below**
