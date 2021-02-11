@@ -12,10 +12,10 @@
   <a href="#-getting-started">Getting started</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-## 💇🏻‍♂️ About the project
+## 🧒🏽 About the project
 
 Plant Shop project developed during tutorial Youtube</br>
-YOUTUBE, click here:  [YOUTUBE](https://www.youtube.com/watch?v=d9-FNDUICZE&t=136s&ab_channel=kymzTech</br>
+YOUTUBE, click here:  [YOUTUBE](https://www.youtube.com/watch?v=d9-FNDUICZE&t=136s&ab_channel=kymzTech)</br>
 
 ## 🚀 Technologies
 
