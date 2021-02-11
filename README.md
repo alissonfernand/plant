@@ -40,8 +40,6 @@ $ git clone https://https://github.com/alissonfernand/plant && cd plant
 # Install the dependencies
 $ yarn
 
-# Be sure the file 'src/services/api.ts' have the IP to your API
-
 # If you are going to emulate with android, run this command
 # Be sure to have the emulator open
 $ yarn android
