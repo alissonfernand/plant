@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="Layout" src="https://res.cloudinary.com/dbdv7jazw/image/upload/v1612998574/Screenshot_1612998489_zyoccy.png" width="250" height="450">
+  <img alt="Layout" src="https://res.cloudinary.com/dbdv7jazw/image/upload/v1613001490/layout_plant_pbarbr.png">
 </h1>
 
 <h3 align="center">  
@@ -12,7 +12,7 @@
   <a href="#-getting-started">Getting started</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-## 💇 About the project
+## 💇🏻‍♂️ About the project
 
 Plant Shop project developed during tutorial Youtube</br>
 YOUTUBE, click here:  [YOUTUBE](https://www.youtube.com/watch?v=d9-FNDUICZE&t=136s&ab_channel=kymzTech</br>
@@ -48,6 +48,6 @@ $ yarn android
 
 # If you are going to emulate with ios, run this command
 $ yarn ios
-
+```
 
 Made with 💜 by Alisson Fernandes 👋 [See my linkedin](https://www.linkedin.com/in/alisson-fernandes-417bb0137/)
